@@ -42,13 +42,13 @@ from one month of financial logs from a mobile money service implemented in an A
 
 ## 👨🏻‍💻 Web App
 
-![alt text]()
+(https://moneylaundering.herokuapp.com/)
 
 Our Web App Link:
 
-In this web app, you just need to enter the path of your data. The model will start prediction and it will upload the outputs to the google drive folder.
+In this web app, you just need to enter the path of your data. The model will start prediction.
 
-In the result box, you can see the google drive folder link and output filename.
+In the result box, you can see the output filename.
 
 ## Author
 
