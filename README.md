@@ -30,7 +30,7 @@ PaySim simulates mobile money transactions based on a sample of real transaction
 from one month of financial logs from a mobile money service implemented in an African country. This dataset contains `6362620` Transaction records with `11` features.
 
 ## 🛠 Tools :
-![alt text](static/tools.png)
+![alt text](https://github.com/vaishali-parashar/money/blob/master/src/tools.png?raw=true)
 
 - 'PyCharm' is used as an IDE.
 - For EDA , 'Pandas' and 'Numpy' are used.
