@@ -1,0 +1,144 @@
+2022-03-07/21:58:38		Start of Training
+2022-03-07/21:58:38		Entered the get_data method of the Data_Getter class
+2022-03-07/21:58:52		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/21:58:52		Start of data preprocessing
+2022-03-07/21:58:52		Entered the is_null_present method of the Preprocessor class
+2022-03-07/21:58:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/21:58:53		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/21:58:55		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/21:58:55		Entered the remove_columns method of the Preprocessor class
+2022-03-07/21:58:55		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/21:58:55		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-07/21:58:55		Exception occurred in encode_categorical_columns method of the Preprocessor class. Exception message:  'NoneType' object is not subscriptable
+2022-03-07/21:58:55		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-07/21:58:55		Unsuccessful End of Training
+2022-03-07/22:05:30		Start of Training
+2022-03-07/22:05:30		Entered the get_data method of the Data_Getter class
+2022-03-07/22:05:44		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:05:44		Start of data preprocessing
+2022-03-07/22:05:44		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:05:46		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:05:46		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:05:47		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:05:47		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:05:47		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:05:47		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-07/22:05:47		Exception occurred in encode_categorical_columns method of the Preprocessor class. Exception message:  'NoneType' object is not subscriptable
+2022-03-07/22:05:47		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-07/22:05:47		Unsuccessful End of Training
+2022-03-07/22:09:30		Start of Training
+2022-03-07/22:09:30		Entered the get_data method of the Data_Getter class
+2022-03-07/22:09:44		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:09:44		Start of data preprocessing
+2022-03-07/22:09:44		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:09:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:09:45		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:09:46		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:09:46		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:09:47		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:09:47		Unsuccessful End of Training
+2022-03-07/22:11:26		Start of Training
+2022-03-07/22:11:26		Entered the get_data method of the Data_Getter class
+2022-03-07/22:11:40		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:11:40		Start of data preprocessing
+2022-03-07/22:11:40		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:11:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:11:41		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:11:43		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:11:43		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:11:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:11:43		Entered the create_new_columns method of the Preprocessor class
+2022-03-07/22:11:43		Exception occured in create_new_columns method of the Preprocessor class. Exception message:  'NoneType' object has no attribute 'newbalanceOrig'
+2022-03-07/22:11:43		Creating new columns Failed. Exited the create_new_columns method of the Preprocessor class
+2022-03-07/22:11:43		Unsuccessful End of Training
+2022-03-07/22:14:08		Start of Training
+2022-03-07/22:14:08		Entered the get_data method of the Data_Getter class
+2022-03-07/22:14:22		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:14:22		Start of data preprocessing
+2022-03-07/22:14:22		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:14:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:14:23		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:14:24		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:14:24		Entered the create_new_columns method of the Preprocessor class
+2022-03-07/22:14:24		Creating new columns successful. Exited the create_new_columns method of the Preprocessor class
+2022-03-07/22:14:24		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:14:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:14:25		Unsuccessful End of Training
+2022-03-07/22:47:09		Start of Training
+2022-03-07/22:47:09		Entered the get_data method of the Data_Getter class
+2022-03-07/22:47:23		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:47:23		Start of data preprocessing
+2022-03-07/22:47:23		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:47:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:47:24		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:47:25		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:47:25		Entered the create_new_columns method of the Preprocessor class
+2022-03-07/22:47:26		Creating new columns successful. Exited the create_new_columns method of the Preprocessor class
+2022-03-07/22:47:26		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:47:26		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:47:26		Entered the separate_label_feature method of the Preprocessor class
+2022-03-07/22:47:26		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-07/22:47:28		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-07/22:47:28		Unsuccessful End of Training
+2022-03-07/22:51:55		Start of Training
+2022-03-07/22:51:55		Entered the get_data method of the Data_Getter class
+2022-03-07/22:52:09		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:52:09		Start of data preprocessing
+2022-03-07/22:52:09		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:52:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:52:11		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:52:12		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:52:12		Entered the create_new_columns method of the Preprocessor class
+2022-03-07/22:52:12		Creating new columns successful. Exited the create_new_columns method of the Preprocessor class
+2022-03-07/22:52:12		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:52:12		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:52:13		Entered the separate_label_feature method of the Preprocessor class
+2022-03-07/22:52:13		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-07/22:52:14		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-07/22:52:16		Exception occured in scale_numerical_columns method of the Preprocessor class. Exception message:  could not convert string to float: 'CASH_OUT'
+2022-03-07/22:52:16		scaling for numerical columns Failed. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-07/22:52:16		Unsuccessful End of Training
+2022-03-07/22:56:17		Start of Training
+2022-03-07/22:56:17		Entered the get_data method of the Data_Getter class
+2022-03-07/22:56:31		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-07/22:56:31		Start of data preprocessing
+2022-03-07/22:56:31		Entered the is_null_present method of the Preprocessor class
+2022-03-07/22:56:32		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-07/22:56:32		Entered the select_useful_data method of the Preprocessor class
+2022-03-07/22:56:34		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-07/22:56:34		Entered the remove_columns method of the Preprocessor class
+2022-03-07/22:56:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-07/22:56:34		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-07/22:56:34		Exception occurred in encode_categorical_columns method of the Preprocessor class. Exception message:  invalid literal for int() with base 10: 'TRANSFER'
+2022-03-07/22:56:34		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-07/22:56:34		Unsuccessful End of Training
+2022-03-08/20:17:05		Start of Training
+2022-03-08/20:17:05		Entered the get_data method of the Data_Getter class
+2022-03-08/20:17:36		Data Load Successful.print(self.data.head())  .Exited the get_data method of the Data_Getter class
+2022-03-08/20:17:36		Start of data preprocessing
+2022-03-08/20:17:36		Entered the is_null_present method of the Preprocessor class
+2022-03-08/20:17:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-08/20:17:40		Entered the select_useful_data method of the Preprocessor class
+2022-03-08/20:17:45		Data Selection successful.Exited the select_useful_data method of the preprocessor class
+2022-03-08/20:17:45		Entered the remove_columns method of the Preprocessor class
+2022-03-08/20:17:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-08/20:17:45		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-08/20:17:46		Encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-08/20:17:46		Entered the create_new_columns method of the Preprocessor class
+2022-03-08/20:17:47		Creating new columns successful. Exited the create_new_columns method of the Preprocessor class
+2022-03-08/20:17:47		Entered the separate_label_feature method of the Preprocessor class
+2022-03-08/20:17:47		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-08/20:17:49		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-08/20:17:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-08/20:18:27		Successful End of data preprocessing
+2022-03-08/20:18:27		Starting the Model building stage
+2022-03-08/20:18:27		Entered the get_best_model method of the Model_Finder class
+2022-03-08/20:18:27		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-03-09/15:28:29		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 75}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-03-09/15:28:30		AUC for XGBoost:0.998176327485202
+2022-03-09/15:28:30		Entered the get_best_params_for_decisiontree method of the Model_Finder class
+2022-03-09/16:39:46		DecisionTree best params: {'criterion': 'entropy', 'max_depth': 4, 'min_samples_leaf': 1}. Exited the get_best_params_for_decisiontree method of the Model_Finder class
+2022-03-09/16:39:46		AUC for DecisionTree:0.9983781532461264
+2022-03-09/16:39:46		Entered the save_model method of the File_Operation class
+2022-03-09/16:39:46		Model File DecisionTree saved. Exited the save_model method of the Model_Finder class
+2022-03-09/16:39:46		Successful End of Training
