@@ -42,7 +42,7 @@ from one month of financial logs from a mobile money service implemented in an A
 
 ## 👨🏻‍💻 Web App
 
-![alt text](https://moneylaundering.herokuapp.com/)
+(https://moneylaundering.herokuapp.com/)
 
 Our Web App Link:
 
